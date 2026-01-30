@@ -1,66 +1,70 @@
-profile:
-  name: Nirmal Kharal
-  role: Fullstack Engineer
-  tagline: Type-safe systems. Scalable architecture. Clean execution.
-  focus:
-    - Fullstack Web Development
-    - Type Safety & DX
-    - Scalable System Design
+<h1 align="center">Hey, I'm Nirmal 👋</h1>
+<h3 align="center">Full-Stack Developer · Next.js · Clean Architecture Enthusiast</h3>
 
-philosophy:
-  principles:
-    - Build clean before building fast
-    - Type safety is a feature, not overhead
-    - Systems should survive scale and people
-    - Documentation is part of delivery
-    - Consistency beats intensity
+<p align="center">
+  <a href="https://linkedin.com/in/nirmal-kharal-37659a2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nirmalkharal">
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/last.knight.12935">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
-tech_stack:
-  frontend:
-    - Next.js 14
-    - React
-    - Tailwind CSS
-  backend:
-    - Node.js
-    - Prisma ORM
-    - MongoDB
-  state_and_schema:
-    - TypeScript
-    - Zod
-    - Zustand
+---
 
-tools:
-  - Git
-  - Docker
-  - GitHub Actions
-  - VS Code
+### 🧠 About Me
 
-work_style:
-  strengths:
-    - Clear ownership
-    - Predictable execution
-    - Strong follow-through
-    - System thinking
-  preferences:
-    - Async-first communication
-    - Data-backed decisions
-    - Clean handovers
-    - Minimal but effective meetings
+- Full-stack developer focused on **scalable web apps**
+- Currently building with **Next.js & modern backend tooling**
+- Obsessed with **clean code, DX, and real-world architecture**
+- Turning ideas into products, not just side projects
 
-current_status:
-  availability: Actively building
-  focus_areas:
-    - Production-grade fullstack apps
-    - Architecture refinement
-    - Performance and maintainability
-    - Developer experience
+---
 
-github:
-  username: NirmalKharal
-  stats_theme: matrix
-  highlights:
-    - Clean commit history
-    - Scalable project structures
-    - Long-term maintainable codebases
+### 🛠 Tech Stack I Actually Use
 
-end_of_transmission: true
+#### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss)
+
+#### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat)
+
+#### Testing & Tooling
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
+### 📊 GitHub Stats (Because We All Check These)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirmal-Kharal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal-Kharal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Because Why Not)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nirmal-Kharal/Nirmal-Kharal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nirmal-Kharal/Nirmal-Kharal/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nirmal-Kharal/Nirmal-Kharal/output/github-snake.svg" />
+</picture>
+
+---
+
+### ⚡ Fun Fact
+I refactor code **for fun** and delete more lines than I write.
